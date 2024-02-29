@@ -39,7 +39,8 @@ article {
     padding: 1em;
     overflow: hidden;
     background-color: #cccccc;
-    background-repeat:repeat-y; /*no-repeat;*/
+    background-repeat:repeat-y;
+    background-size: 23%;/*no-repeat;*/
     /*background-size:300px 180px;*/
 }
 
